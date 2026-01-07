@@ -1,5 +1,14 @@
-# 💫 About Me:
-I'm currently Learning on Data Science and Machine Learning.<br>I'm currently learning DSA<br>
+💫 About Me
+
+🎓 B.Tech CSE student with a strong interest in Data Science & Machine Learning
+
+🐍 Skilled in Python, ML algorithms, data preprocessing, and visualization
+
+🧠 Currently learning DSA, Deep Learning, and advanced ML concepts
+
+📊 Experienced with real-world datasets (churn prediction, obesity prediction, Iris, diabetes)
+
+🚀 Passionate about building practical, data-driven solutions and improving model performance
 
 
 ## 🌐 Socials:
@@ -16,3 +25,4 @@ I'm currently Learning on Data Science and Machine Learning.<br>I'm currently le
 [![](https://visitcount.itsvg.in/api?id=himanshu-shekhar2327&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
