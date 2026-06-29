@@ -4,7 +4,7 @@
 
 🤖 Currently building hands-on projects with LangChain, Google Gemini, Hugging Face, Embeddings, and Structured Outputs while exploring modern GenAI application development.
 
-💻 Strong foundation in Python, Machine Learning, Data Science, SQL, and Data Structures & Algorithms.
+💻 Strong foundation in Python, Machine Learning, Deep Learning , Data Science, SQL, and Data Structures & Algorithms.
 
 🚀 I enjoy building intelligent applications that combine AI with practical real-world use cases.
 
